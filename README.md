@@ -50,8 +50,8 @@ Award-winning decentralized gaming platform with MetaMask integration
 ### LunaCred
 Referral-based credibility staking protocol (Finalist at OneBlock+ Polkadot Hackathon)
 
-### SolStripe
-Fiat to crypto on-ramp platform built on Solana using Stripe
+### Jr_Jeff
+The AI bot that helps builders focus on the Ideas they want to ship
 
 ## 🏅 Achievements
 - 🥈 2nd Prize in Global Hackathon (Encode)
