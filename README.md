@@ -113,7 +113,7 @@ Blockchain Expertise:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="">
 
 ### 🎓 **VerifEd** | *AI-Powered Certificate Verification*
 <img src="https://img.shields.io/badge/🤖%20AI%20POWERED-Certificate%20Verification-FF6B6B?style=for-the-badge"/>
@@ -128,7 +128,7 @@ Blockchain Expertise:
 
 ---
 
-<div align="center">
+<div align="">
 
 ### 🎲 **RollRush** | *DeFi Gaming Platform*
 <img src="https://img.shields.io/badge/🏆%20CHAMPION-RollAppDraft%20Hackathon-FFD700?style=for-the-badge"/>
@@ -143,7 +143,7 @@ Blockchain Expertise:
 
 ---
 
-<div align="center">
+<div align="">
 
 ### 🌙 **LunaCred** | *Trust Protocol for DeFi*
 <img src="https://img.shields.io/badge/🥉%20FINALIST-OneBlock+%20Polkadot-E91E63?style=for-the-badge"/>
@@ -157,7 +157,7 @@ Blockchain Expertise:
 
 ---
 
-<div align="center">
+<div align="">
 
 ### 💳 **SolStripe** | *Fiat-to-Crypto Bridge*
 <img src="https://img.shields.io/badge/⚡%20INSTANT-3%20Click%20Conversion-00D4FF?style=for-the-badge"/>
