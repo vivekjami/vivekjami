@@ -98,13 +98,13 @@ backend_expertise = {
 <img src="https://skillicons.dev/icons?i=rust,solidity,js,ts,react,python,nodejs,docker,aws,postgresql,git,linux&theme=dark&perline=12" />
 
 ```yaml
-Blockchain Expertise:
-  ⚡ Solana Development: Advanced SVM & Agave Architecture
-  💎 Smart Contracts: Solidity & Anchor Framework
-  🌐 Web3 Integration: MetaMask & DeFi Protocols
-  🏗️ Infrastructure: Turbine3 Graduate & WBA Certified
-  🦀 Systems Programming: Rust Performance Optimization
-  🔐 Security: Cryptographic Protocols & Security Audits
+        Blockchain Expertise:
+          ⚡ Solana Development: Advanced SVM & Agave Architecture
+          💎 Smart Contracts: Solidity & Anchor Framework
+          🌐 Web3 Integration: MetaMask & DeFi Protocols
+          🏗️ Infrastructure: Turbine3 Graduate & WBA Certified
+          🦀 Systems Programming: Rust Performance Optimization
+          🔐 Security: Cryptographic Protocols & Security Audits
 ```
 
 </div>
