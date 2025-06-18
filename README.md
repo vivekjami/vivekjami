@@ -158,15 +158,16 @@ Blockchain Expertise:
 ---
 
 <div align="">
+  
+### 🔍 **HEXA** | *AI-Powered Research Copilot*
+<img src="https://img.shields.io/badge/🧠%20AI%20RESEARCH-Neural%20Search%20Engine-00D4FF?style=for-the-badge"/>
 
-### 💳 **SolStripe** | *Fiat-to-Crypto Bridge*
-<img src="https://img.shields.io/badge/⚡%20INSTANT-3%20Click%20Conversion-00D4FF?style=for-the-badge"/>
-
-**User Experience:** Simplified fiat to SOL conversion in 3 clicks  
-**Integration:** Stripe API • Solana Pay • Real-time settlement
+**Innovation:** Turn research questions into comprehensive intelligence reports  
+**Tech Stack:** React • TypeScript • Exa.ai • D3.js • OpenAI  
+**Features:** Multi-source discovery • Fact verification • Interactive knowledge mapping  
+**Impact:** Transform hours of research into minutes of insight  
 
 </div>
-
 <br/>
 
 ## 📊 GitHub Analytics
