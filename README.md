@@ -111,7 +111,7 @@ Blockchain Expertise:
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="">
 
@@ -159,16 +159,19 @@ Blockchain Expertise:
 
 <div align="">
   
-### 🔍 **HEXA** | *AI-Powered Research Copilot*
-<img src="https://img.shields.io/badge/🧠%20AI%20RESEARCH-Neural%20Search%20Engine-00D4FF?style=for-the-badge"/>
+### 🔍 **EvaSearchGPT** | *Next-Generation Search Interface*
+<img src="https://img.shields.io/badge/🤖%20AI%20SEARCH-Intelligent%20Answer%20Engine-00D4FF?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/🚀%20PRODUCTION-Multi%20Source%20Fusion-FF4500?style=for-the-badge"/>
 
-**Innovation:** Turn research questions into comprehensive intelligence reports  
-**Tech Stack:** React • TypeScript • Exa.ai • D3.js • OpenAI  
-**Features:** Multi-source discovery • Fact verification • Interactive knowledge mapping  
-**Impact:** Transform hours of research into minutes of insight  
+**Innovation:** Transform search from links to intelligent answers using multi-source AI fusion <br/>
+**Problem Solved:** Traditional search overwhelms users with links instead of actionable insights <br/>
+**Tech Stack:** Next.js • TypeScript • Google Gemini • Brave Search • SerpAPI • React <br/>
+**Features:** Multi-source search fusion • LLM-powered synthesis • Conversational interface • Real-time citations <br/>
+**Impact:** Revolutionizing how users interact with search technology <br/>
 
 </div>
-<br/>
+
+---
 
 ## 📊 GitHub Analytics
 
