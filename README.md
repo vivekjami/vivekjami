@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-## 🎯 About Me
+## About Me
 
 <div align="">
 
@@ -24,11 +24,11 @@ interface Developer {
   philosophy: "Transform complex problems into elegant solutions";
   
   experience: {
-    🏆 hackathonAchievements: ["🥈 2nd Place Global Fintech Challenge", "🥉 3rd Place Solana Ecosystem"];
-    🧠 mentorshipImpact: "Guided 150+ developers in Web3 development";
-    🚀 productionExperience: "15+ applications deployed and scaled";
-    💼 professionalExperience: "2+ years in enterprise development";
-    🎯 currentFocus: "Building next-generation blockchain applications";
+    hackathonAchievements: ["🥈 2nd Place Global Fintech Challenge", "🥉 3rd Place Solana Ecosystem"];
+    mentorshipImpact: "Guided 150+ developers in Web3 development";
+     productionExperience: "15+ applications deployed and scaled";
+     professionalExperience: "2+ years in enterprise development";
+     currentFocus: "Building next-generation blockchain applications";
   };
   
   motto: "Code with purpose, build with passion, scale with precision";
@@ -43,13 +43,13 @@ interface Developer {
 
 <br/>
 
-## 🛠️ Technical Expertise
+##  Technical Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Frontend Development
+### Frontend Development
 ```javascript
 const frontendSkills = {
   core: {
@@ -72,7 +72,7 @@ const frontendSkills = {
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Backend & Systems
+###  Backend & Systems
 ```python
 backend_expertise = {
     "languages": {
@@ -94,7 +94,7 @@ backend_expertise = {
 
 <div align="">
 
-### 🔗 Blockchain & Web3 Stack
+###  Blockchain & Web3 Stack
 <img src="https://skillicons.dev/icons?i=rust,solidity,js,ts,react,python,nodejs,docker,aws,postgresql,git,linux&theme=dark&perline=12" />
 
 ```yaml
@@ -115,7 +115,7 @@ Blockchain Expertise:
 
 <div align="">
 
-### 🎓 **VerifEd** | *AI-Powered Certificate Verification*
+###  **VerifEd** | *AI-Powered Certificate Verification*
 <img src="https://img.shields.io/badge/🤖%20AI%20POWERED-Certificate%20Verification-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/⛓️%20BLOCKCHAIN-Secure%20&%20Immutable-4ECDC4?style=for-the-badge"/>
 
@@ -130,7 +130,7 @@ Blockchain Expertise:
 
 <div align="">
 
-### 🎲 **RollRush** | *DeFi Gaming Platform*
+###  **RollRush** | *DeFi Gaming Platform*
 <img src="https://img.shields.io/badge/🏆%20CHAMPION-RollAppDraft%20Hackathon-FFD700?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🚀%20SELECTED-Encode%20Club%20Incubator-9945FF?style=for-the-badge"/>
 
@@ -145,7 +145,7 @@ Blockchain Expertise:
 
 <div align="">
 
-### 🌙 **LunaCred** | *Trust Protocol for DeFi*
+###  **LunaCred** | *Trust Protocol for DeFi*
 <img src="https://img.shields.io/badge/🥉%20FINALIST-OneBlock+%20Polkadot-E91E63?style=for-the-badge"/>
 
 **Innovation:** Referral-based credibility scoring system  
@@ -159,7 +159,7 @@ Blockchain Expertise:
 
 <div align="">
   
-### 🔍 **EvaSearchGPT** | *Next-Generation Search Interface*
+###  **EvaSearchGPT** | *Next-Generation Search Interface*
 <img src="https://img.shields.io/badge/🤖%20AI%20SEARCH-Intelligent%20Answer%20Engine-00D4FF?style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/🚀%20PRODUCTION-Multi%20Source%20Fusion-FF4500?style=for-the-badge"/>
 
@@ -173,7 +173,7 @@ Blockchain Expertise:
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekjami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -190,14 +190,14 @@ Blockchain Expertise:
 
 <br/>
 
-## 🏆 Professional Achievements
+##  Professional Achievements
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🏢 **Industry Impact**
+###  **Industry Impact**
 ```yaml
 Professional Experience:
   Rompit Technologies:
@@ -210,7 +210,7 @@ Professional Experience:
 </td>
 <td align="center" width="33%">
 
-### 🏅 **Competition Success**
+### **Competition Success**
 ```yaml
 Hackathon Achievements:
   🥈 Global Fintech Challenge
@@ -223,7 +223,7 @@ Hackathon Achievements:
 </td>
 <td align="center" width="33%">
 
-### 👨‍🏫 **Community Leadership**
+###  **Community Leadership**
 ```yaml
 Mentorship & Teaching:
   Workshops: "6+ technical sessions"
@@ -239,7 +239,7 @@ Mentorship & Teaching:
 
 <br/>
 
-## 🚀 Current Focus & Opportunities
+##  Current Focus & Opportunities
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Open%20to%20New%20Opportunities&fontSize=24&fontColor=fff"/>
@@ -273,10 +273,10 @@ impl ProfessionalValue for VivekJami {
     fn value_proposition() -> String {
         "I architect scalable solutions that drive business growth.
          
-         ✨ Transform complex requirements into elegant systems
-         🚀 Mentor teams to achieve technical excellence
-         💎 Build products that users genuinely love
-         ⚡ Solve tomorrow's problems today
+          Transform complex requirements into elegant systems
+          Mentor teams to achieve technical excellence
+          Build products that users genuinely love
+          Solve tomorrow's problems today
          
          Ready to collaborate on something exceptional!"
     }
@@ -285,7 +285,7 @@ impl ProfessionalValue for VivekJami {
 
 <br/>
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -307,7 +307,7 @@ impl ProfessionalValue for VivekJami {
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   
   **Ready to create something amazing together?**  
-  Let's turn your vision into reality! 🚀
+  Let's turn your vision into reality! 
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 </div>
