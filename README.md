@@ -116,8 +116,8 @@ Blockchain Expertise:
 <div align="">
 
 ###  **VerifEd** | *AI-Powered Certificate Verification*
-<img src="https://img.shields.io/badge/🤖%20AI%20POWERED-Certificate%20Verification-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⛓️%20BLOCKCHAIN-Secure%20&%20Immutable-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20AI%20POWERED-Certificate%20Verification-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20BLOCKCHAIN-Secure%20&%20Immutable-4ECDC4?style=for-the-badge"/>
 
 **Problem Solved:** Addressing the $600B+ annual fake certificate fraud  
 **Solution:** AI-powered decentralized verification system  
@@ -131,8 +131,8 @@ Blockchain Expertise:
 <div align="">
 
 ###  **RollRush** | *DeFi Gaming Platform*
-<img src="https://img.shields.io/badge/🏆%20CHAMPION-RollAppDraft%20Hackathon-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀%20SELECTED-Encode%20Club%20Incubator-9945FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20CHAMPION-RollAppDraft%20Hackathon-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20SELECTED-Encode%20Club%20Incubator-9945FF?style=for-the-badge"/>
 
 **Innovation:** Provably fair gaming with cinematic 3D experience  
 **Tech Stack:** Solidity • Babylon.js • MetaMask • Advanced Cryptography  
@@ -146,7 +146,7 @@ Blockchain Expertise:
 <div align="">
 
 ###  **LunaCred** | *Trust Protocol for DeFi*
-<img src="https://img.shields.io/badge/🥉%20FINALIST-OneBlock+%20Polkadot-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20FINALIST-OneBlock+%20Polkadot-E91E63?style=for-the-badge"/>
 
 **Innovation:** Referral-based credibility scoring system  
 **Problem Solved:** Preventing DeFi scams through trust networks  
@@ -160,8 +160,8 @@ Blockchain Expertise:
 <div align="">
   
 ###  **EvaSearchGPT** | *Next-Generation Search Interface*
-<img src="https://img.shields.io/badge/🤖%20AI%20SEARCH-Intelligent%20Answer%20Engine-00D4FF?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/🚀%20PRODUCTION-Multi%20Source%20Fusion-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20AI%20SEARCH-Intelligent%20Answer%20Engine-00D4FF?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/%20PRODUCTION-Multi%20Source%20Fusion-FF4500?style=for-the-badge"/>
 
 **Innovation:** Transform search from links to intelligent answers using multi-source AI fusion <br/>
 **Problem Solved:** Traditional search overwhelms users with links instead of actionable insights <br/>
