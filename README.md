@@ -179,9 +179,9 @@ Blockchain Expertise:
 ```yaml
 Professional Experience:
   Rompit Technologies:
-    Role: "Senior Software Engineer"
+    Role: "Software Engineer"
     Projects: "6+ production applications"
-    Performance: "300% efficiency improvement"
+    Performance: "250% efficiency improvement"
     Focus: "Scalable system architecture"
 ```
 
