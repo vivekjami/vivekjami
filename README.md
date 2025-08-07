@@ -217,52 +217,6 @@ Mentorship & Teaching:
 
 <br/>
 
-##  Current Focus & Opportunities
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Open%20to%20New%20Opportunities&fontSize=24&fontColor=fff"/>
-</div>
-
-```rust
-// Current Mission
-pub struct CareerGoals {
-    continuous_learning: [
-        "Advanced SVM Internals & Cryptographic Systems",
-        "High-Performance Rust Systems Programming",
-        "Scalable Blockchain Architecture Design"
-    ],
-    
-    building: [
-        "Next-Generation DApps",
-        "Enterprise Web3 Infrastructure", 
-        "AI-Integrated Blockchain Solutions"
-    ],
-    
-    seeking: [
-        "Senior Full-Stack Engineer",
-        "Blockchain Engineering Lead",
-        "Technical Architecture Role"
-    ],
-    
-    availability: "Open to immediate opportunities"
-}
-
-impl ProfessionalValue for VivekJami {
-    fn value_proposition() -> String {
-        "I architect scalable solutions that drive business growth.
-         
-          Transform complex requirements into elegant systems
-          Mentor teams to achieve technical excellence
-          Build products that users genuinely love
-          Solve tomorrow's problems today
-         
-         Ready to collaborate on something exceptional!"
-    }
-}
-```
-
-<br/>
-
 ##  Let's Connect
 
 <div align="center">
