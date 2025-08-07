@@ -13,29 +13,7 @@
 </div>
 <br/>
 
-## About Me
 
-<div align="">
-
-```typescript
-interface Developer {
-  name: "Vivek Jami";
-  role: "Full-Stack Architect & Blockchain Engineer";
-  philosophy: "Transform complex problems into elegant solutions";
-  
-  experience: {
-    hackathonAchievements: ["🥈 2nd Place Global Fintech Challenge", "🥉 3rd Place Solana Ecosystem"];
-    mentorshipImpact: "Guided 150+ developers in Web3 development";
-     productionExperience: "15+ applications deployed and scaled";
-     professionalExperience: "2+ years in enterprise development";
-     currentFocus: "Building next-generation blockchain applications";
-  };
-  
-  motto: "Code with purpose, build with passion, scale with precision";
-}
-```
-
-</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vivekjami&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" alt="Achievement Showcase"/>
