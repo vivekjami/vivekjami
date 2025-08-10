@@ -230,16 +230,3 @@ Mentorship & Teaching:
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-  
-  ### 💫 "Building the future, one commit at a time" 💫
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  
-  **Ready to create something amazing together?**  
-  Let's turn your vision into reality! 
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</div>
