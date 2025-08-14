@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekjami&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" alt="Achievement Showcase"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekjami&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&row=2" alt="Achievement Showcase"/>
 </div>
 
 <br/>
