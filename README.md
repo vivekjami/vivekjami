@@ -6,10 +6,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=VIVEK%20JAMI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20and%20Blockchain%20Architect&descAlignY=52&descAlign=62"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/🦀%20Rust-Systems%20Engineer-FF4500?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Engineer">
-  <img src="https://img.shields.io/badge/⚡%20Solana-Blockchain%20Specialist-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Specialist">
-  <img src="https://img.shields.io/badge/🚀%20Full%20Stack-Solution%20Architect-00D4FF?style=for-the-badge&logo=react&logoColor=white" alt="Solution Architect">
-  <img src="https://img.shields.io/badge/🏆%20Hackathon-Champion-FFD700?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathon Champion">
+  <img src="https://img.shields.io/badge/%20Rust-Systems%20Engineer-FF4500?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Engineer">
+  <img src="https://img.shields.io/badge/%20Solana-Blockchain%20Specialist-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Specialist">
+  <img src="https://img.shields.io/badge/%20Full%20Stack-Solution%20Architect-00D4FF?style=for-the-badge&logo=react&logoColor=white" alt="Solution Architect">
+
 </div>
 <br/>
 
@@ -21,68 +21,19 @@
 
 <br/>
 
-##  Technical Expertise
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Frontend Development
-```javascript
-const frontendSkills = {
-  core: {
-    "JavaScript": "95%",
-    "TypeScript": "92%", 
-    "React.js": "96%",
-    "Next.js": "88%"
-  },
-  styling: {
-    "Tailwind CSS": "90%",
-    "Responsive Design": "94%"
-  },
-  advanced: {
-    "Babylon.js": "78%",
-    "3D WebGL": "72%"
-  }
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-###  Backend & Systems
-```python
-backend_expertise = {
-    "languages": {
-        "Python": "94%",
-        "Rust": "76%",
-        "SQL": "84%"
-    },
-    "frameworks": {
-        "Django": "89%",
-        "FastAPI": "79%"
-    },
-    "infrastructure": "AWS + PostgreSQL"
-}
-```
-
-</td>
-</tr>
-</table>
 
 <div align="">
 
-###  Blockchain & Web3 Stack
-<img src="https://skillicons.dev/icons?i=rust,solidity,js,ts,react,python,nodejs,docker,aws,postgresql,git,linux&theme=dark&perline=12" />
+###  Tech Stack
+<img src="https://skillicons.dev/icons?i=rust,solidity,js,ts,react,python,nodejs,docker,aws,gcp,postgresql,mongodb,redis,kubernetes,git,linux,bash,c,cpp,fastapi,django,express,sqlite&theme=dark&perline=12" />
 
 ```yaml
 Blockchain Expertise:
-  ⚡ Solana Development: Advanced SVM & Agave Architecture
-  💎 Smart Contracts: Solidity & Anchor Framework
-  🌐 Web3 Integration: MetaMask & DeFi Protocols
-  🏗️ Infrastructure: Turbine3 Graduate & WBA Certified
-  🦀 Systems Programming: Rust Performance Optimization
-  🔐 Security: Cryptographic Protocols & Security Audits
+  Solana Development: Advanced SVM & Agave Architecture
+  Smart Contracts: Solidity & Anchor Framework
+  Web3 Integration: MetaMask & DeFi Protocols
+  Systems Programming: Rust Performance Optimization
+  Security: Cryptographic Protocols & Security Audits
 ```
 
 </div>
@@ -194,8 +145,8 @@ Hackathon Achievements:
   🥈 Global Fintech Challenge
   🥉 Solana Ecosystem Competition
   🏆 RollAppDraft Winner
-  🎯 OneBlock+ Finalist
-  📊 500+ teams competed against
+   OneBlock+ Finalist
+   500+ teams competed against
 ```
 
 </td>
