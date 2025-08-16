@@ -40,67 +40,7 @@ Blockchain Expertise:
 
 <br/>
 
-##  Featured Projects
 
-<div align="">
-
-###  **VerifEd** | *AI-Powered Certificate Verification*
-<img src="https://img.shields.io/badge/%20AI%20POWERED-Certificate%20Verification-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%20BLOCKCHAIN-Secure%20&%20Immutable-4ECDC4?style=for-the-badge"/>
-
-**Problem Solved:** Addressing the $600B+ annual fake certificate fraud  
-**Solution:** AI-powered decentralized verification system  
-**Tech Stack:** React • Django • Machine Learning • Blockchain  
-**Impact:** Zero fraud rate with automated verification
-
-</div>
-
----
-
-<div align="">
-
-###  **RollRush** | *DeFi Gaming Platform*
-<img src="https://img.shields.io/badge/%20CHAMPION-RollAppDraft%20Hackathon-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/%20SELECTED-Encode%20Club%20Incubator-9945FF?style=for-the-badge"/>
-
-**Innovation:** Provably fair gaming with cinematic 3D experience  
-**Tech Stack:** Solidity • Babylon.js • MetaMask • Advanced Cryptography  
-**Achievement:** Top 3 finish among 500+ global teams  
-**Business Impact:** $50K+ monthly revenue projection
-
-</div>
-
----
-
-<div align="">
-
-###  **LunaCred** | *Trust Protocol for DeFi*
-<img src="https://img.shields.io/badge/%20FINALIST-OneBlock+%20Polkadot-E91E63?style=for-the-badge"/>
-
-**Innovation:** Referral-based credibility scoring system  
-**Problem Solved:** Preventing DeFi scams through trust networks  
-**Tech Stack:** Polkadot • Substrate • Advanced Game Theory  
-**Impact:** Potential to save billions from DeFi fraud
-
-</div>
-
----
-
-<div align="">
-  
-###  **EvaSearchGPT** | *Next-Generation Search Interface*
-<img src="https://img.shields.io/badge/%20AI%20SEARCH-Intelligent%20Answer%20Engine-00D4FF?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/%20PRODUCTION-Multi%20Source%20Fusion-FF4500?style=for-the-badge"/>
-
-**Innovation:** Transform search from links to intelligent answers using multi-source AI fusion <br/>
-**Problem Solved:** Traditional search overwhelms users with links instead of actionable insights <br/>
-**Tech Stack:** Next.js • TypeScript • Google Gemini • Brave Search • SerpAPI • React <br/>
-**Features:** Multi-source search fusion • LLM-powered synthesis • Conversational interface • Real-time citations <br/>
-**Impact:** Revolutionizing how users interact with search technology <br/>
-
-</div>
-
----
 
 ##  GitHub Analytics
 
