@@ -50,55 +50,6 @@
 
 <br/>
 
-##  Professional Achievements
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-###  **Industry Impact**
-```yaml
-Professional Experience:
-  Rompit Technologies:
-    Role: "Software Engineer"
-    Projects: "6+ production applications"
-    Performance: "250% efficiency improvement"
-    Focus: "Scalable system architecture"
-```
-
-</td>
-<td align="center" width="33%">
-
-### **Competition Success**
-```yaml
-Hackathon Achievements:
-  🥈 Global Fintech Challenge
-  🥉 Solana Ecosystem Competition
-  🏆 RollAppDraft Winner
-   OneBlock+ Finalist
-   500+ teams competed against
-```
-
-</td>
-<td align="center" width="33%">
-
-###  **Community Leadership**
-```yaml
-Mentorship & Teaching:
-  Workshops: "6+ technical sessions"
-  Developers: "150+ mentored"
-  Focus: "Web3, Solana, DeFi"
-  Satisfaction: "99% positive feedback"
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
 ##  Let's Connect
 
 <div align="center">
