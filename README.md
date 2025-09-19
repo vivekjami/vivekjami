@@ -21,14 +21,6 @@
 
 <br/>
 
-
-<div align="">
-
-###  Tech Stack
-<img src="https://skillicons.dev/icons?i=rust,solidity,js,ts,react,python,nodejs,docker,aws,gcp,postgresql,mongodb,redis,kubernetes,git,linux,bash,c,cpp,fastapi,django,express,sqlite&theme=dark&perline=12" />
-
-</div>
-
 <br/>
 
 
