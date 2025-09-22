@@ -35,7 +35,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-jami/)
-[![GitHub](https://img.shields.io/badge/GitHub-Code%20Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekjami)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.vivekvamsi@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=vivekjami&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
