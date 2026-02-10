@@ -1,9 +1,13 @@
-## Hey there! I'm Vivek Jami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<div align="center">  
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-jami/)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.vivekvamsi@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=vivekjami&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
+# Vivek Jami
+
+Backend Software Engineer | Distributed Systems | High-Performance APIs
+
+[Email](mailto:j.vivekvamsi@gmail.com) | [LinkedIn](https://linkedin.com/in/vivek-jami) | [GitHub](https://github.com/vivekjami)
 
 ---
+
+Built production systems at Quadratyx. OCR pipelines processing 50K+ docs/month with 17% accuracy gains. REST APIs reducing integration issues by 30%. Document classification cutting manual review by 40%. System optimization delivering 20% fewer production defects.Backend services in Rust. Ship in Python, TypeScript, Rust across distributed systems, Kubernetes, PostgreSQL, Redis.
+
+**Public Work:**
+- [RateWatch](https://github.com/vivekjami/ratewatch) – Distributed rate limiting: 10K+ RPS, <500ms latency
+- [Zyphyr](https://github.com/vivekjami/zyphyr) – Vector database: billion-scale embeddings, <100ms search with HNSW + SIMD
